@@ -6,7 +6,7 @@ By Sourabh Pande
 ---
 
 ## Overview
-This is an stock app which identify and calculats the profit and loss in your stock.
+This is an stock app which identify and calculats the profit and loss in your stock and will keep help you to solve big problems
 
 ---
 
